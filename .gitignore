@@ -170,3 +170,6 @@ dmypy.json
 # Custom
 *.pdf
 homework/
+cache/
+tutorials/data/
+tutorials/requirements.txt
